@@ -10,4 +10,6 @@ How to start the true application
 Health Check
 ---
 
+Making sure this is a different file with this message!
+
 To see your applications health enter url `http://localhost:8081/healthcheck`
